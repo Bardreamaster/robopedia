@@ -1,7 +1,5 @@
 ---
-title: Welcome to Robook
+title: Welcome to Robopedia
 ---
 
-这是一份机器人手册。
-
-This is a Robotics Handbook.
+这是一份机器人学百科手册。
